@@ -49,8 +49,10 @@ function App() {
 
 
 ## Screenshots
+![Home Page](https://github.com/user-attachments/assets/597b6c5c-b901-4ef6-997b-e3410c1c1726)
+![Addition Information Page](https://github.com/user-attachments/assets/f5cce9ec-2739-4bfa-866d-729665da8148)
+![Select Page](https://github.com/user-attachments/assets/1944c603-8b1e-4c37-9415-27756a55c8bf)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## Contributing
