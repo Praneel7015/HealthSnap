@@ -27,22 +27,22 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 - Our Service contains a website with a chatbot which can desribe your issues and it will give you an solution to your issues and  where you can do the following
     ### Audio Scan
         
-        - Our Audio model analyzes the issues of the patient Cough File.
-        - Gives an in detail summary what the issue looks like to be and will recommend the Best Doctors near you.
+        - Our Audio model analyzes the issues of the patient Deep Breathing File.
+        - Gives an in detail summary what could be the cause of Respiratory Issues and will recommend the Best Doctors near you.
         - Side effects of medicine and order with links and what are about it
-        - Audio File Submitted should be either an ".mp3" or ".wav"  file format only.
+        - Deep Breathing File Submitted should be either an ".mp3" or ".wav"  file format only.
 
-    ### Image Analysis
-        - Our Image model analyzes MRI Scans of the patient (Chest Area) File.
-        - Gives an in detail summary what the issue looks like to be and will recommend the Best Doctors near you.
-        - Image File Submitted should be either an ".dicom" or ".png"  file format only.
+    ### X-Ray Analysis
+        - Our Image model analyzes X-Ray Scans of the patient (Chest Area) File.
+        - Gives an in detail summary what could be causing issuesand will recommend the Best Doctors near you.
+        - Image File Submitted should be either an ".jpeg", ".png", ".jpg", ".bmp"  file format only.
 
 
 
 ## Features
 
-- Accurate Audio Analysis
-- State-of-the-art Image Reviews
+- Accurate Analysis of Deep Breathing
+- State-of-the-art X-Ray Scan Identification
 - Additional Information Page
 - Free Service To All
 
