@@ -64,13 +64,6 @@ checks whether the patient issue
 - breathing and coughing issues
 
 
-
-#### How to use it
-
-1) Visit our [website](https://www.github.io) To start, Tell Our Chatbot your symptoms and what problems you are facing.
-2) Upload The Appropiate Images to the site and get the best solutions for you.
-
-
 ## Contributing
 
 Contributions are always welcome!
@@ -82,7 +75,7 @@ Please adhere to this project's `code of conduct`.
 
 ## Support
 
-For support, email p70157015@gamil.com.com 
+For support, email p70157015@gmail.com
 
 
 ## Authors
