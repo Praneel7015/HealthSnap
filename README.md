@@ -24,8 +24,8 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## How it Works
 
-- Our Service contains a website with a chatbot which can desribe your issues and it will give you an solution to your issues and  where you can do the following
-    ### Audio Scan
+- Our Service contains a website where you can desribe your issues along with an Deep Breathing File or an X-Ray Scan filre and it will give you an Personalized Treatment/Medication to your Conditions.
+    ### Deep Breathing Audio
         
         - Our Audio model analyzes the issues of the patient Deep Breathing File.
         - Gives an in detail summary what could be the cause of Respiratory Issues and will recommend the Best Doctors near you.
@@ -41,7 +41,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## Features
 
-- Accurate Analysis of Deep Breathing
+- Accurate Analysis of Deep Breathing Audio Files
 - State-of-the-art X-Ray Scan Identification
 - Additional Information Page
 - Free Service To All
