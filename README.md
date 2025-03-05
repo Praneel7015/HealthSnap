@@ -39,20 +39,6 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 
 
-
-
-
-## Usage
-
-```python
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
-
-
 ## Features
 
 - Accurate Audio Analysis
@@ -96,7 +82,7 @@ Please adhere to this project's `code of conduct`.
 
 ## Support
 
-For support, email fake@fake.com or join our Slack channel.
+For support, email p70157015@gamil.com.com 
 
 
 ## Authors
